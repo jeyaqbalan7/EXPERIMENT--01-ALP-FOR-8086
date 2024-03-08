@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :JERUSHLIN JOSE JB
+Name :Jeyabalan
 
-Roll no : 212222240039
+Roll no : 212222240040
 
 Date of experiment :08.03.2024
 
