@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-### Name : AFSAR JUMAIL S
-### Roll no : 212222240004
+### Name : Jeyabalan
+### Roll no : 212222240040
 ### Date of experiment : 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
